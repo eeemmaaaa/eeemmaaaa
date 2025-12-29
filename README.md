@@ -30,6 +30,14 @@ My background combines structured data analysis, classical machine learning, and
 
 ## 📌 Selected Projects
 
+### 🩺 Chest X-Ray Pneumonia Classification
+**Keywords:** medical imaging, CNN, model evaluation  
+- Built a convolutional neural network to classify chest X-ray images as Pneumonia or Normal  
+- Implemented a full image data pipeline including normalization, augmentation, caching, and prefetching  
+- Evaluated models using clinically relevant metrics such as recall, precision, and AUC  
+
+📁 Repository: `Chest-X-Ray-Pneumonia-Classification-with-Convolutional-Neural-Networks`
+
 ### 🧬 Gene Expression Classification (GEO GSE68086)
 **Keywords:** bioinformatics, high-dimensional data, PCA, supervised learning  
 - An end-to-end gene expression analysis pipeline using public GEO microarray data  
@@ -38,13 +46,12 @@ My background combines structured data analysis, classical machine learning, and
 
 📁 Repository: `Gene-Expression-Analysis-and-Classification-using-GEO-Dataset-GSE68086-`
 
-### 🩺 Chest X-Ray Pneumonia Classification
-**Keywords:** medical imaging, CNN, model evaluation  
-- Built a convolutional neural network to classify chest X-ray images as Pneumonia or Normal  
-- Implemented a full image data pipeline including normalization, augmentation, caching, and prefetching  
-- Evaluated models using clinically relevant metrics such as recall, precision, and AUC  
+### ✍️ Handwritten Digit Recognition (MNIST)
+**Keywords:** computer vision, CNN fundamentals  
+- Built a baseline CNN model for handwritten digit classification  
+- Focused on understanding convolutional feature extraction and training dynamics  
 
-📁 Repository: `Chest-X-Ray-Pneumonia-Classification-with-Convolutional-Neural-Networks`
+📁 Repository: `Handwritten-Digit-Recognition-with-Convolutional-Neural-Networks`
 
 ### 📊 House Price Prediction
 **Keywords:** regression, feature engineering, data leakage prevention  
@@ -61,13 +68,6 @@ My background combines structured data analysis, classical machine learning, and
 - Served as a foundational project for supervised learning workflows  
 
 📁 Repository: `Titanic-Survival-Prediction-with-Classical-Machine-Learning`
-
-### ✍️ Handwritten Digit Recognition (MNIST)
-**Keywords:** computer vision, CNN fundamentals  
-- Built a baseline CNN model for handwritten digit classification  
-- Focused on understanding convolutional feature extraction and training dynamics  
-
-📁 Repository: `Handwritten-Digit-Recognition-with-Convolutional-Neural-Networks`
 
 ## 🧠 What I Focus On
 - Building **clean, leakage-free data pipelines**
