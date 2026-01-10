@@ -21,7 +21,6 @@ I am transitioning into **Data Science and Computer Science**, with a strong int
 
 My background includes structured data analysis, classical machine learning, and deep learning, with hands-on projects involving both structured datasets and high-dimensional data. I am particularly interested in building reliable data pipelines, understanding model behavior, and interpreting results in a rigorous and reproducible manner.
 
----
 
 ## 🔍 Technical & Research Interests
 - Data Science & Machine Learning  
@@ -30,7 +29,6 @@ My background includes structured data analysis, classical machine learning, and
 - Computer Vision and Representation Learning  
 - Data Preprocessing, Feature Engineering, and Model Evaluation  
 
----
 
 ## 📌 Selected Projects
 
@@ -42,7 +40,6 @@ My background includes structured data analysis, classical machine learning, and
 
 📁 Repository: `Chest-X-Ray-Pneumonia-Classification-with-Convolutional-Neural-Networks`
 
----
 
 ### 🧬 High-Dimensional Data Classification
 **Keywords:** dimensionality reduction, supervised learning  
@@ -52,7 +49,6 @@ My background includes structured data analysis, classical machine learning, and
 
 📁 Repository: `Gene-Expression-Analysis-and-Classification-using-GEO-Dataset-GSE68086-`
 
----
 
 ### ✍️ Handwritten Digit Recognition (MNIST)
 **Keywords:** CNN fundamentals, representation learning  
@@ -61,7 +57,6 @@ My background includes structured data analysis, classical machine learning, and
 
 📁 Repository: `Handwritten-Digit-Recognition-with-Convolutional-Neural-Networks`
 
----
 
 ### 📊 House Price Prediction
 **Keywords:** regression, feature engineering, data integrity  
@@ -71,7 +66,6 @@ My background includes structured data analysis, classical machine learning, and
 
 📁 Repository: `House-Price-Prediction-with-Regression-Models`
 
----
 
 ### 🚢 Titanic Survival Prediction
 **Keywords:** classical machine learning, supervised learning  
@@ -81,7 +75,6 @@ My background includes structured data analysis, classical machine learning, and
 
 📁 Repository: `Titanic-Survival-Prediction-with-Classical-Machine-Learning`
 
----
 
 ## 🧠 What I Focus On
 - Designing **clean, reproducible, and leakage-free data pipelines**
@@ -89,7 +82,6 @@ My background includes structured data analysis, classical machine learning, and
 - Applying machine learning methods thoughtfully to diverse data types
 - Building strong foundations for **graduate-level study in data-driven fields**
 
----
 
 ## 🎯 Current Goal
 I am preparing for **graduate study in Data Science / Computer Science**, with interests spanning applied machine learning, data analysis, and research-oriented problem solving.
